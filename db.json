@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signupUsers": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "fullname": "",
+      "email": "ghasen@gmail.com",
+      "mobile": 12345679,
+      "password": "321654987",
+      "id": 2
+    },
+    {
+      "fullname": "",
+      "email": "gass@gmail.com",
+      "mobile": 232323232,
+      "password": "123456789",
+      "id": 3
+    },
+    {
+      "fullname": "ghassen",
+      "email": "g@gmail.com",
+      "mobile": 123456,
+      "password": "1234567891",
+      "id": 4
+    },
+    {
+      "fullname": "ghassen2",
+      "email": "ghasen2@gmail.com",
+      "mobile": 1111111111,
+      "password": "951357",
+      "id": 5
+    },
+    {
+      "fullname": "khalil wapana",
+      "email": "wapana@gmail.com",
+      "mobile": 0,
+      "password": "123456",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
